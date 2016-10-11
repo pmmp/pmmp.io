@@ -1,0 +1,22 @@
+<!-- Wrapper -->
+<div id="page-wrapper">
+
+    <!-- Header -->
+    <header id="header"{% if page.layout == "home" %} class="alt"{% endif %}>
+        <h1><a href="{{ site.url }}{{ site.baseurl }}">{{ site.title-bold }}</a> {{ site.title-normal }}</h1>
+        <nav id="nav">
+            <ul>
+                {% for page in site.pages %}
+                {% if page.layout == "home" %}
+                <li><a href="{{ page.url | prepend: site.baseurl | remove: "index.html" }}">{{ page.title }}</a></li>
+                {% endif %}
+                {% endfor %}
+                {% for page in site.pages %}
+                {% if page.layout != "home" %}
+                <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+                {% endif %}
+                {% endfor %}
+                <li><a href="#" class="button">Sign Up</a></li>
+            </ul>
+        </nav>
+    </header>

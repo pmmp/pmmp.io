@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: Alpha
+landing-title: PMMP
 description: 
 image: 
 author: 
@@ -13,7 +13,7 @@ nav-menu:
     <h2>{{ page.landing-title }}</h2>
     <p>{{ site.description }}</p>
     <ul class="actions">
-        <li><a href="#" class="button special">Sign Up</a></li>
+        <li><a href="#" class="button special">Get PMMP</a></li>
         <li><a href="#" class="button">Learn More</a></li>
     </ul>
 </section>

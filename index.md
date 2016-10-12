@@ -29,7 +29,6 @@ nav-menu:
         <p>Limitless customization, full gameplay control.<br />
         100% open source and free.</p>
     </header>
-    <span class="image featured"><img src="images/pic01.jpg" alt="" /></span>
 </section>
 
 <section class="box special features">

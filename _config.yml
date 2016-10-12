@@ -9,8 +9,8 @@
 title-bold: PocketMine
 title-normal: MP
 email: youremailaddress@gmail.com
-description: Server software for MineCraft: Pocket Edition written in PHP
-baseurl: "/" # the subpath of your site, e.g. /blog
+description: Server software for MineCraft Pocket Edition written in PHP
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://pmmp.github.io" # the base hostname & protocol for your site
 author: 
 street_address: 1234 Somewhere Road
@@ -23,8 +23,6 @@ phone: (716) 555-5555
 # Plugins
 gems:
   - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-feed
   - jemoji
 
 # Homepage tiles
@@ -45,14 +43,3 @@ twitter_url:
 
 # Build settings
 markdown: kramdown
-
-# Plugin: jekyll-seo-tag
-twitter:
-  username:
-# Add one or more of the following
-facebook:
-  app_id: 
-  publisher: 
-  admins: 
-logo:
-google_site_verification: 

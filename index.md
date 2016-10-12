@@ -23,11 +23,11 @@ nav-menu:
 
 <section class="box special">
     <header class="major">
-        <h2>Introducing the ultimate mobile app
+        <h2>Introducing the ultimate
         <br />
-        for doing stuff with your phone</h2>
-        <p>Blandit varius ut praesent nascetur eu penatibus nisi risus faucibus nunc ornare<br />
-        adipiscing nunc adipiscing. Condimentum turpis massa.</p>
+        MCPE Server Software</h2>
+        <p>Limitless customization, full gameplay control.<br />
+        100% open source and free.</p>
     </header>
     <span class="image featured"><img src="images/pic01.jpg" alt="" /></span>
 </section>
@@ -36,25 +36,25 @@ nav-menu:
     <div class="features-row">
         <section>
             <span class="icon major fa-bolt accent2"></span>
-            <h3>Magna etiam</h3>
-            <p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+            <h3>Plugin Support</h3>
+            <p>Extend the game in the way you want using an easy to comprehend plugin API; add awesome features.</p>
         </section>
         <section>
-            <span class="icon major fa-area-chart accent3"></span>
-            <h3>Ipsum dolor</h3>
-            <p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+            <span class="icon major fa-globe accent3"></span>
+            <h3>Multi-world System</h3>
+            <p>Load multiple different levels at the same time and teleport freely back and forth.</p>
         </section>
     </div>
     <div class="features-row">
         <section>
-            <span class="icon major fa-cloud accent4"></span>
-            <h3>Sed feugiat</h3>
-            <p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+            <span class="icon major fa-wrench accent4"></span>
+            <h3>Unlimited Control</h3>
+            <p>Full control over customization and server functions. Teleport players, whitelist the server and more.</p>
         </section>
         <section>
-            <span class="icon major fa-lock accent5"></span>
-            <h3>Enim phasellus</h3>
-            <p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+            <span class="icon major fa-plus accent5"></span>
+            <h3>Much, much more</h3>
+            <p>Endless features with continuous support. Compatible with latest versions of MCPE</p>
         </section>
     </div>
 </section>

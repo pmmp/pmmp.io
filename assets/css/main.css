@@ -3030,7 +3030,7 @@
 	#banner {
 		background-attachment: scroll,							fixed;
 		background-color: #666;
-		background-image: url("assets/css/images/overlay.png"), url("assets/images/mcwall.png");
+		background-image: url("https://pmmp.github.io/assets/css/images/overlay.png"), url("https://pmmp.github.io/assets/images/mcwall.png");
 		background-position: top left,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;

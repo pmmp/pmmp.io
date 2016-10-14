@@ -13,7 +13,7 @@ nav-menu:
     <h2>{{ page.landing-title }}</h2>
     <p>{{ site.description }}</p>
     <ul class="actions">
-        <li><a href="#" class="button special">Get PMMP</a></li>
+        <li><a href="get.html" class="button special">Get PMMP</a></li>
         <li><a href="#" class="button">Learn More</a></li>
     </ul>
 </section>

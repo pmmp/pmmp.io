@@ -20,6 +20,9 @@ nav-menu:
                 <hr>
                 <p>These instructions are currently for Linux only. Official support for other platforms will be added when we release a stable release.</p>
                 <h4><strong>Step 1: Install PocketMine</strong></h4>
+                <h5><strong>Install using Git</strong></h5>
+                <p><a href="http://pmmp.readthedocs.io/en/rtfd/installation.html#installing-manually" target="_blank">Read the documentation.</a></p>
+                <h5><strong>Install completely manually</strong></h5>
                 <p>
                 Install the dependencies necessary to compile and run the code. You may have to install <code>perl gcc g++ make automake libtool autoconf m4</code>. If you want to compile from <em>x86_64</em>, you might have to install <code>gcc-multilib</code>.<br/>
                 Navigate where you want to install PocketMine-MP. <br/>

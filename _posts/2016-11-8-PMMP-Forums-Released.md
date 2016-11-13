@@ -6,9 +6,9 @@ image: assets/images/pmmpforum.jpg
 author: 99leonchang
 ---
 
-##Let's get discussing!
+## Let's get discussing!
 
-Today the we are celebrating the official release of the [PMMP forums](https://forums.pmmp.gq) for public consumption!
+Today we are celebrating the official release of the [PMMP forums](https://forums.pmmp.gq) for public consumption!
 
 The new PMMP forums will provide a platform for non-bug related support as well as general discussion with the goal of fostering community relations (and reducing spam on the GitHub issues tracker).
 It is a place for the community to interact with each other and the PMMP team, as well as get solutions to their problems.

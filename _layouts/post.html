@@ -20,7 +20,12 @@
 		</header>
 		<div class="box">
 			{% if page.image %}<span class="image featured"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
-			<p>{{ content }}</p>
+			<p>
+				{{ content }}
+				{% if page.author %}
+				<p class="align-right"><i>Posted by: {{ page.author }}</i></p>
+				{% endif %}
+			</p>
 		</div>
 	</section>
 

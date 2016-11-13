@@ -18,8 +18,11 @@ nav-menu:
                 <h3>Heads Up!</h3>
                 <p>PMMP is currently under heavy development and there is <strong>no stable build</strong> available as of yet. All installations are hereby provided as-is and <strong>should not</strong> be used on production servers.</p>
                 <hr>
-                <p>These instructions are currently for Linux only. Official support for other platforms will be added when we release a stable release.</p>
+                <p>Instructions below were written with Linux in mind. Official support for other platforms will be added when we release a stable release.</p>
                 <h4><strong>Step 1: Install PocketMine</strong></h4>
+                <p>Make sure you have PHP 7 installed on your machine before beginning installation.</p>
+                <h5><strong>Using a PHAR</strong></h5>
+                <p>The PHAR for the latest cutting-edge build can be found on our <a href="https://jenkins.pmmp.gq">Jenkins server</a>.</p>
                 <h5><strong>Install using Git</strong></h5>
                 <p><a href="http://pmmp.readthedocs.io/en/rtfd/installation.html#installing-manually" target="_blank">Read the documentation.</a></p>
                 <h5><strong>Install completely manually</strong></h5>
@@ -37,6 +40,8 @@ nav-menu:
                 If you are setting up PocketMine-MP on a home network, you have to port forward the PocketMine-MP UDP (and TCP if using RCON) port on your router.<br>
                 If you don't know how to do port-forwarding, go to <a href="http://portforward.com/" target="_blank">Port Forward</a>, search your router, and follow the instructions.
                 </p>
+                <h4><strong>Step 4: Enjoy!</strong></h4>
+                <p>If you find any bugs with the PMMP software, please report them on our <a href="https://github.com/pmmp/PocketMine-MP/issues">issues tracker</a>. If you need non-bug related support, visit our <a href="https://forums.pmmp.gq">forums</a></p>         
             </section>
         </div>
     </div>

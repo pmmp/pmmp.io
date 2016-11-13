@@ -29,11 +29,12 @@ gems:
 # Homepage tiles
 #tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
+tiles-source: posts
 
 # Social settings
 500px_url: 
 facebook_url: 
-github_url: 
+github_url: https://github.com/pmmp
 gitlab_url:
 googleplus_url:
 instagram_url:

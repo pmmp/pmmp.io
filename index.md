@@ -14,7 +14,7 @@ nav-menu:
     <p>{{ site.description }}</p>
     <ul class="actions">
         <li><a href="get.html" class="button special">Get PMMP</a></li>
-        <li><a href="#" class="button">Learn More</a></li>
+        <li><a href="https://github.com/pmmp/PocketMine-MP" class="button">GitHub</a></li>
     </ul>
 </section>
 

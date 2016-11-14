@@ -6,12 +6,8 @@
         <h1><a href="{{ site.url }}{{ site.baseurl }}">{{ site.title-bold }}</a> {{ site.title-normal }}</h1>
         <nav id="nav">
             <ul>
-                {% for page in site.pages %}
-                {% if page.layout == "home" %}
-                <li><a href="{{ page.url | prepend: site.baseurl | remove: "index.html" }}">{{ page.title }}</a></li>
-                {% endif %}
-                {% endfor %}
-                {% for page in site.pages %}
+                <li><a href="/">Home</a></li>
+                {% for page in site.html_pages %}
                 {% if page.layout != "home" %}
                 <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
                 {% endif %}

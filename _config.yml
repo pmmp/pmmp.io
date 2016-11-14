@@ -14,17 +14,21 @@ description: Server software for Minecraft Pocket Edition written in PHP
 baseurl: ""
 url: "https://pmmp.gq"
 author: 
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address:
+city:
+state:
+zip_code:
+country:
+phone:
 
 # Plugins
 gems:
-  - jekyll-sitemap
   - jemoji
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-mentions
+#  - jekyll-sitemap
+  - jekyll-feed
 
 # Homepage tiles
 #tiles-source: posts # accepts "posts" or "pages"

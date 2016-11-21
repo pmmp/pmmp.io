@@ -22,7 +22,7 @@ nav-menu:
                 <h4><strong>Step 1: Install PocketMine</strong></h4>
                 <p>Make sure you have PHP 7 installed on your machine before beginning installation.</p>
                 <h5><strong>Using a PHAR</strong></h5>
-                <p>The PHAR for the latest cutting-edge build can be found on our <a href="https://jenkins.pmmp.gq">Jenkins server</a>.</p>
+                <p>The PHAR for the latest cutting-edge build can be found on our <a href="https://jenkins.pmmp.io">Jenkins server</a>.</p>
                 <h5><strong>Install using Git</strong></h5>
                 <p><a href="http://pmmp.readthedocs.io/en/rtfd/installation.html#installing-manually" target="_blank">Read the documentation.</a></p>
                 <h5><strong>Install completely manually</strong></h5>

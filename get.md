@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Get PMMP
-description:
+description: Install PocketMine on your server.
 image:
 nav-menu:
 ---

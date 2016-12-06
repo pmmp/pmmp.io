@@ -21,11 +21,13 @@ nav-menu:
                 <p>Instructions below were written with Linux in mind. Official support for other platforms will be added when we release a stable release.</p>
                 <h4><strong>Step 1: Install PocketMine</strong></h4>
                 <p>Make sure you have PHP 7 installed on your machine before beginning installation.</p>
+                <h5><strong>Using the installation script</strong></h5>
+                <p>Run <code>curl -sL https://get.pmmp.io | bash -s -</code> or <code>wget -q -O - https://get.pmmp.io | bash -s -</code> in your Linux/macOS terminal.</p>
                 <h5><strong>Using a PHAR</strong></h5>
                 <p>The PHAR for the latest cutting-edge build can be found on our <a href="https://jenkins.pmmp.io">Jenkins server</a>.</p>
                 <h5><strong>Install using Git</strong></h5>
                 <p><a href="http://pmmp.readthedocs.io/en/rtfd/installation.html#installing-manually" target="_blank">Read the documentation.</a></p>
-                <h5><strong>Install completely manually</strong></h5>
+                <h5><strong>Install completely manually (not recommended)</strong></h5>
                 <p>
                 Install the dependencies necessary to compile and run the code. You may have to install <code>perl gcc g++ make automake libtool autoconf m4</code>. If you want to compile from <em>x86_64</em>, you might have to install <code>gcc-multilib</code>.<br/>
                 Navigate where you want to install PocketMine-MP. <br/>

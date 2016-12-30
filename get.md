@@ -31,8 +31,8 @@ nav-menu:
                 <p>
                 Install the dependencies necessary to compile and run the code. You may have to install <code>perl gcc g++ make automake libtool autoconf m4</code>. If you want to compile from <em>x86_64</em>, you might have to install <code>gcc-multilib</code>.<br/>
                 Navigate where you want to install PocketMine-MP. <br/>
-                Clone the latest version of the <a href="https://github.com/pmmp/PocketMine-MP/archive/master.zip" target="_blank">master branch</a>. Be sure to also grab the proper versions of <a href="https://github.com/pmmp/RakLib" target="_blank">RakLib</a>, <a href="https://github.com/pmmp/PocketMine-SPL" target="_blank">SPL</a>, <a href="https://github.com/PocketMine/PocketMine-MP-GUI/" target="_blank">GUI</a> and <a href="https://github.com/pmmp/PocketMine-Language" target="_blank">LANG/LOCALE</a>.<br/>
-                Extract <code>master.zip</code>, navigate into the directory and extract the contents of RakLib, SPL, GUI and LANG/LOCALE into <code>src/raklib</code>, <code>src/spl</code>, <code>src/pocketmine/gui</code> and <code>src/pocketmine/lang/locale</code> respectively.<br/>
+                Clone the latest version of the <a href="https://github.com/pmmp/PocketMine-MP/archive/master.zip" target="_blank">master branch</a>. Be sure to also grab the proper versions of <a href="https://github.com/pmmp/RakLib" target="_blank">RakLib</a>, <a href="https://github.com/pmmp/PocketMine-SPL" target="_blank">SPL</a> and <a href="https://github.com/pmmp/PocketMine-Language" target="_blank">LANG/LOCALE</a>.<br/>
+                Extract <code>master.zip</code>, navigate into the directory and extract the contents of RakLib, SPL and LANG/LOCALE into <code>src/raklib</code>, <code>src/spl</code>, <code>src/pocketmine/gui</code> and <code>src/pocketmine/lang/locale</code> respectively.<br/>
                 Run <code>./start.sh</code>, PocketMine-MP will now start.<br/>
                 </p>
                 <h4><strong>Step 2: Customize server settings</strong></h4>

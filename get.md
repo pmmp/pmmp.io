@@ -43,6 +43,9 @@ nav-menu:
                 If you don't know how to do port-forwarding, go to <a href="http://portforward.com/" target="_blank">Port Forward</a>, search your router, and follow the instructions.
                 </p>
                 <h4><strong>Step 4: Enjoy!</strong></h4>
+                <h5><strong>Install for Linux/MacOS</strong></h5>
+                <p>You can also use <code>curl -sL https://get.pmmp.io | bash -s - </code> and 
+                <code>wget -q -O - https://get.pmmp.io | bash -s -</code> for Mac/Linux terminals.</p>
                 <p>If you find any bugs with the PMMP software, please report them on our <a href="https://github.com/pmmp/PocketMine-MP/issues">issues tracker</a>. If you need non-bug related support, visit our <a href="https://forums.pmmp.io">forums</a></p>         
             </section>
         </div>

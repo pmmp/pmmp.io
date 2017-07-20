@@ -8,6 +8,14 @@ author:
 nav-menu: 
 ---
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-6891102771450508",
+    enable_page_level_ads: true
+  });
+</script>
+
 <!-- Banner -->
 <section id="banner">
     <h2>{{ page.landing-title }}</h2>

@@ -13,7 +13,7 @@ nav-menu:
     <h2>{{ page.landing-title }}</h2>
     <p>{{ site.description }}</p>
     <ul class="actions">
-        <li><a href="get.html" class="button special">Get PMMP</a></li>
+        <li><a href="http://pmmp.readthedocs.io/en/rtfd/installation.html" class="button special">Get PocketMine-MP</a></li>
         <li><a href="https://github.com/pmmp/PocketMine-MP" class="button">GitHub</a></li>
     </ul>
 </section>

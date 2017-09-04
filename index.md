@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: PMMP
+landing-title: PocketMine-MP
 description: 
 image: 
 author: 

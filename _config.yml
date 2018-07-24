@@ -22,7 +22,7 @@ country:
 phone:
 
 # Plugins
-gems:
+plugins:
   - jemoji
   - jekyll-redirect-from
   - jekyll-seo-tag

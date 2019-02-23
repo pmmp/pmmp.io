@@ -25,7 +25,7 @@ nav-menu:
     <header class="major">
         <h2>Introducing the ultimate
         <br />
-        MCPE Server Software</h2>
+        Minecraft: Bedrock Edition Server Software</h2>
         <p>Limitless customization, full gameplay control.<br />
         100% open source and free.</p>
     </header>

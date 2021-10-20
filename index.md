@@ -53,7 +53,7 @@ nav-menu:
         <section>
             <span class="icon major fa-plus accent5"></span>
             <h3>Much, much more</h3>
-            <p>Endless features with continuous support. Compatible with latest versions of MCPE</p>
+            <p>Endless features with continuous support. Compatible with latest versions of Minecraft Bedrock.</p>
         </section>
     </div>
 </section>

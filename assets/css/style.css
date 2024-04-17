@@ -1,0 +1,185 @@
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #212529;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #353535;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #1e1e1e;
+}
+
+body {
+    background-color: #0e0e0e;
+    color: #fff;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+}
+
+.navbar,
+.footer {
+    background-color: #212529;
+}
+.navbar-nav .nav-item {
+    border-right: 1px solid #0f1214;
+    padding: 0 10px;
+    margin: 0;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.btn-light {
+    color: #fff;
+    background-color: #ffffff5c
+}
+
+.btn-outline-dark {
+    color: #fff;
+    border-color: #fff;
+    background-color: rgb(49, 53, 58) !important;
+}
+
+.btn-outline-dark:hover {
+    color: #fff;
+    border-color: #a8a8a8;
+    background-color: rgba(33, 37, 41, 0.5) !important;
+}
+
+.bannerButton {
+    --bs-btn-padding-y: .25rem;
+    --bs-btn-padding-x: 1rem;
+    --bs-btn-font-size: 1.25rem;
+    --bs-btn-line-height: 1.5;
+    --bs-btn-font-weight: 500;
+    margin: 5px;
+}
+
+.banner {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+        url(../images/background.jpg);
+    background-size: cover;
+    height: 500px;
+    z-index: 0;
+}
+
+.pmmpInfo {
+    background-color: #1e1e1e;
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: -100px;
+    z-index: 1000;
+}
+
+.feature-icon {
+    width: 64px;
+    height: 64px;
+    filter:invert(1) !important;
+}
+
+#pluginSupport {
+    background-color: #754646;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+}
+
+#unlimitedControl {
+    background-color: #27415f;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+}
+
+#evenMore {
+    background-color: #306453;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+}
+
+.featureShadow {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 1), 0 0 10px rgba(0, 0, 0, 1),  0 0 15px rgba(0, 0, 0, 1);
+    border-bottom: 5px solid rgba(0, 0, 0, .75);
+    transition: all .3s ease;
+}
+
+.logo-container {
+    position: relative;
+    display: inline-block;
+}
+
+.splash-message {
+    position: absolute;
+    top: 115px;
+    right: 0px;
+    background-color: rgba(0, 0, 0, 0);
+    color: #FFFF00; 
+    font-family: "Minecraft", monospace;
+    font-weight: 400;
+    text-align: right;
+    justify-content: right;
+    font-smooth: subpixel-antialiased  !important;
+    -webkit-font-smoothing: subpixel-antialiased !important;
+    image-rendering: pixelated !important;
+    width: fit-content !important;
+    font-size: 30px;
+    letter-spacing: 2px;
+    text-shadow: 3px 3px 3px rgb(0, 0, 0), 3px 3px 3px rgb(0, 0, 0), 3px 3px 3px rgb(0, 0, 0), 2px 2px 3px rgba(64, 64, 0, 1), 2px 2px 2px rgb(64, 64, 0);
+    user-select: none;
+    cursor: pointer;
+    animation: splashAnim 0.5s infinite ease-in-out;
+}
+
+#subText {
+    margin-top: 90px !important;
+}
+
+@media only screen and (max-width: 768px) {
+    #subText {
+        margin-top: 70px !important;
+    }
+
+    .splash-message {
+        top: 60px;
+        right: 0px;
+        font-size: 18px !important;
+        padding: 5px 10px;
+    }
+
+}
+
+/* Animate Splash growing and shrinking loop */
+@keyframes splashAnim {
+    0% {
+        transform: rotate(-9.5deg) scale(1);
+    }
+
+    10% {
+        transform: rotate(-9.5deg) scale(1);
+    }
+
+    50% {
+        transform: rotate(-9.5deg) scale(1.025);
+    }
+
+    90% {
+        transform: rotate(-9.5deg) scale(1);
+    }
+
+    100% {
+        transform: rotate(-9.5deg) scale(1);
+    }
+}
+
+@font-face {
+    font-family: 'Minecraft';
+    /* Copyright - Mojang */
+    src: url(../font/Mojangles.ttf) format('truetype');
+}

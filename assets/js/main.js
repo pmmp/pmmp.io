@@ -3,12 +3,12 @@ const splashTexts = [
     "Thanks for supporting us on Patreon!",
     "#blameshoghi",
     "Blame shogchips",
+    "#BlameMicrojang",
     "uwu",
     "PEMapModder != SOFe",
     `PocketMine-MP = ${new Date().getFullYear() - 2012} years old`,
     `Initial Commit:  ${new Date(2012, 9, 19).toDateString()}`,
     `MP stands for "Mrs Poggit"`,
-    "NetherGames pog",
     "shockedplot is a demi-god!",
     "Pog in the chat",
     "Mrs Poggit approves this message",
@@ -115,6 +115,7 @@ const splashTexts = [
     "Boom boom pow!",
     "Herobrine joined the game",
     "CelticTrinculo ate the last cookie",
+    "Put the cookie down!",
     "Thunder is just sky drums",
     "Always dig straight down!",
     "Day 365: Still no diamonds...",
@@ -141,7 +142,18 @@ const splashTexts = [
     "It's Levio-sa, not Levio-sar",
     "echo \"Hi\" > /dev/null 2>&1",
     "Deja vu, I've just been in this place before",
-    "!false (It's funny because it's true)"
+    "!false (It's funny because it's true)",
+    "Baby shark, doo doo doo doo doo doo",
+    "Zombie Pigmen are just misunderstood",
+    "Did someone eat my donut?",
+    "Herobrine isn't real... right?",
+    "In case it isn't obvious, Slappers aren't players!",
+    "100% organic, free-range, gluten-free code",
+    "Murphy's Law applies to servers too!",
+    "umop-apisdn",
+    "It's a bird! It's a plane! No, it's a splash text!",
+    "Doug Dimmadome Owner of the Dimmsdale Dimmadome",
+    "Oh, hi Mark!"
 ];
 
 // Function to fetch stargazers and forks

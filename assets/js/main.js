@@ -82,7 +82,6 @@ const splashTexts = [
     "PHP you later!",
     "logger.error($e);",
     "logger.info('Hello, World!');",
-    "64FF00 spammed console logs",
     "A server a day keeps the doctor away",
     "As easy as 3.14159265359",
     "Creepers gonna creep",

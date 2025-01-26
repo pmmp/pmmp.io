@@ -96,8 +96,6 @@ const splashTexts = [
     "The princess is in another castle...",
     "#BlameMojang",
     "PocketMine-MP the best server software!",
-    "LBSG: Live Better, Start Gaming!",
-    "Minecraft: The Movie, coming soon!",
     "Helo Cymru!",
     "10% More Dedotated Wam!",
     "In the end, you know it's all just blocks.",
